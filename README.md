@@ -10,7 +10,7 @@ With smooth animations and a modern interface, **Bresol AI** offers a **fast, in
 ## 🧠 Backend Repository
 
 The Node.js backend for Bresol AI is available here:  
-👉 [Bresol-AI-Backend]() 
+👉 [Bresol-AI-Backend](https://github.com/bhavneet08/Bresol_AI/tree/main/bresol_ai_server) 
 
 ---
 
